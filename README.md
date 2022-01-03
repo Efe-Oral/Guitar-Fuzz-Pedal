@@ -16,6 +16,7 @@ Before moving forward I would like to inform you the problems you might ran into
 
 ⦿ TL082CP OP-Amp
 
+⦿ 6.3mm Female Jack Plug (X2)
 ### R͟e͟s͟i͟s͟t͟o͟r͟s͟
 ⦿ 2.2kΩ
 
